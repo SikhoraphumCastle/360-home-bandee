@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Kittithada Bold 75 P";
+   src: url("fonts/Kittithada Bold 75 P.woff") format("woff"), url("fonts/Kittithada Bold 75 P.eot") format("embedded-opentype"), url("fonts/Kittithada Bold 75 P.ttf") format("truetype"), url("fonts/Kittithada Bold 75 P.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Kittithada Medium 65 P";
+   src: url("fonts/Kittithada Medium 65 P.woff") format("woff"), url("fonts/Kittithada Medium 65 P.eot") format("embedded-opentype"), url("fonts/Kittithada Medium 65 P.ttf") format("truetype"), url("fonts/Kittithada Medium 65 P.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
